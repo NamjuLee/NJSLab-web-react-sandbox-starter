@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { App } from '../lib/App';
+import { App } from '../lib/app';
 export class SandBox extends Component {
   app: App;
 
