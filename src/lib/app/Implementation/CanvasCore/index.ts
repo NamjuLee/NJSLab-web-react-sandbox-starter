@@ -1,5 +1,5 @@
 
-export class Canvas {
+export class CanvasCore {
     canvas: HTMLCanvasElement;
     host: HTMLElement;;
     ctx: CanvasRenderingContext2D;

@@ -8,7 +8,7 @@
     "@tensorflow/tfjs-vis": "^1.2.0",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.8",
-    "@types/react": "16.9.3",
+    "@types/react": "16.9.1",
     "@types/react-dom": "16.9.1",
     "@types/three": "^0.103.2",
     "gl-matrix": "2.8.1",

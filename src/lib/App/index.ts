@@ -1,7 +1,9 @@
-import { Canvas } from './Implementation/Canvas';
+import { CanvasCore } from './Implementation/CanvasCore';
+import { ThreeCore } from './Implementation/ThreeCore';
 export class App {
     constructor() {
-        new Canvas('SandBox');
+        new CanvasCore('SandBox');
+        new ThreeCore('SandBox');
         console.log('Sandbox starter!');
     }
 }
